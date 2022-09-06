@@ -1,10 +1,10 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "ESCOLA NOSSA SENHORA DA CONCEICAO LTDA",
+    "text": "ESCOLA NOSSA SENHORA DA CONCEIÇÃO LTDA"
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Páginas",
     "list": []
   },
@@ -27,20 +27,21 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
     "banrisul": false,
     "elo": true,
-    "hipercard": false,
+    "hipercard": true,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "amex": true,
+    "itau": false
   },
   "credits": ""
 }
