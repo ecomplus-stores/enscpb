@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
     "text": "Matrículas 2023 Em Breve!",
-    "link": ""
+    "link": "",
+    "background": "#001cb1",
+    "color": "#fffcfc"
   },
   "contacts_stripe": {
     "pages": [],
