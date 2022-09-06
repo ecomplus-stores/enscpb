@@ -26,6 +26,14 @@
       "title": "Matrículas 2023"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6315103973321213f8664b26:categories:Livros Didáticos:/livros-didaticos",
+      "title": "Livros Didáticos"
+    },
+    {
       "type": "page-title",
       "title": "Loja demo da E-Com Plus",
       "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
