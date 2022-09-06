@@ -41,7 +41,10 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "63151c3373321213f8665647:categories:Eventos:/eventos",
+      "title": "Eventos",
+      "sort": "views"
     },
     {
       "type": "page-title",
