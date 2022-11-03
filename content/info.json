@@ -5,7 +5,8 @@
   },
   "installments": {
     "show": true,
-    "text": "Pague via PIX ou parcele em até 12x no cartão "
+    "text": "Pague via PIX",
+    "title": "Parcelamento via cartão comparecer a secretaria da escola."
   },
   "exchange": {
     "show": false,
