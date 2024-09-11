@@ -1,13 +1,13 @@
 {
   "marketing_stripe": {
-    "text": "Matrículas 2023 Abertas",
+    "text": "Matrículas 2024",
     "link": "",
-    "background": "#001cb1",
+    "background": "#061c85",
     "color": "#fffcfc"
   },
   "contacts_stripe": {
     "pages": [],
-    "phone_wpp": false,
+    "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
