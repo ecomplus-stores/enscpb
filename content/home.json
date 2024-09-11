@@ -11,17 +11,17 @@
       "shuffle": false,
       "limit": 13,
       "page": 1,
-      "collection_id": "6315103973321213f8664b26:categories:Livros Didáticos:/livros-didaticos",
-      "title": "Livros Didáticos"
+      "collection_id": "63151f1073321213f8665948:categories:Matrículas 2023:/matriculas-2023",
+      "sort": "views",
+      "title": "Matrículas 2025"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 13,
       "page": 1,
-      "collection_id": "63151f1073321213f8665948:categories:Matrículas 2023:/matriculas-2023",
-      "sort": "views",
-      "title": "Matrículas 2023"
+      "collection_id": "6315103973321213f8664b26:categories:Livros Didáticos:/livros-didaticos",
+      "title": "Livros Didáticos"
     },
     {
       "type": "responsive-banner",
