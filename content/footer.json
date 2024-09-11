@@ -1,6 +1,6 @@
 {
   "description": {
-    "title": "ESCOLA NOSSA SENHORA DA CONCEICAO LTDA",
+    "title": "ESCOLA NOSSA SENHORA DA CONCEIÇÃO LTDA",
     "text": "ESCOLA NOSSA SENHORA DA CONCEIÇÃO LTDA"
   },
   "links_1": {
@@ -27,9 +27,9 @@
     }
   ],
   "payment_methods": {
-    "bb": false,
+    "bb": true,
     "visa": true,
-    "boleto": true,
+    "boleto": false,
     "aura": false,
     "banrisul": false,
     "elo": true,
@@ -39,8 +39,9 @@
     "santander": false,
     "mastercard": true,
     "citibank": false,
+    "hiper": true,
     "mais": false,
-    "amex": true,
+    "amex": false,
     "itau": false
   },
   "credits": ""
