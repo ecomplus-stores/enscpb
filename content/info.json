@@ -1,12 +1,12 @@
 {
   "shipping": {
     "show": false,
-    "text": "Entregamos para todo o Brasil"
+    "text": ""
   },
   "installments": {
     "show": true,
     "text": "Pague via PIX",
-    "title": "Parcelamento via cartão comparecer a secretaria da escola."
+    "title": "Paguem em até 12x no cartão de crédito"
   },
   "exchange": {
     "show": false,
