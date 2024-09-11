@@ -1,14 +1,14 @@
 {
   "domain": "enscpb.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#001cb1",
+  "primary_color": "#081f8e",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/1653943206601-quadrado.png",
   "repository": "ecomplus-stores/enscpb",
+  "logo": "/img/uploads/1653943206601-quadrado.png",
   "name": "enscpb",
   "short_name": "enscpb",
   "lang": "pt_br",
