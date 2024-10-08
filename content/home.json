@@ -3,6 +3,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/sem-titulo.jpg"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
@@ -22,10 +26,6 @@
       "page": 1,
       "collection_id": "6315103973321213f8664b26:categories:Livros Didáticos:/livros-didaticos",
       "title": "Livros Didáticos"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/sem-titulo.jpg"
     },
     {
       "type": "collection-shelf",
