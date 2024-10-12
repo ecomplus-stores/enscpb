@@ -48,9 +48,10 @@
     },
     {
       "type": "brands-carousel",
-      "limit": 12,
+      "limit": 8,
       "offset": 0,
-      "sort": null
+      "sort": null,
+      "autoplay": 0
     }
   ]
 }
