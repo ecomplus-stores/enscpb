@@ -11,9 +11,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/matriculas?Matrículas"
-    ],
+    "featured": [],
     "random": 6,
     "full_width": true
   },
