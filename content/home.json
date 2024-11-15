@@ -21,12 +21,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 6,
       "page": 1,
       "collection_id": "6315103973321213f8664b26:categories:Livros Didáticos:/livros-didaticos",
       "title": "Livros Didáticos",
-      "sort": "lowest_price"
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
