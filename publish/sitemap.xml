@@ -176,7 +176,7 @@
     </url>
   
     <url>
-      <loc>https://enscpb.netlify.app/pages/privacidade</loc>
+      <loc>https://enscpb.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -188,19 +188,19 @@
     </url>
   
     <url>
-      <loc>https://enscpb.netlify.app/pages/faq</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://enscpb.netlify.app/pages/termos</loc>
+      <loc>https://enscpb.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://enscpb.netlify.app/pages/sobre-nos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://enscpb.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -242,13 +242,13 @@
     </url>
   
     <url>
-      <loc>https://enscpb.netlify.app/app/index</loc>
+      <loc>https://enscpb.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://enscpb.netlify.app/admin/index</loc>
+      <loc>https://enscpb.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
