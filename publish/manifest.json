@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.988d0fda7343b7e034fa102daf536c84.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.fd814e8bbccc7dc7e2d1354db78a9de7.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.b929a4a3ae46136effe1a739542cf0c3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.c901884fc056f61b22c2ec50228725f4.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.5135b220898cda3c4ef83d868293dd14.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Loja Ensc",
+  "short_name": "enscpb",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "enscpb",
+  "background_color": "#ffffff",
+  "theme_color": "#091b6f"
+}
