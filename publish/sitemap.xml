@@ -170,6 +170,12 @@
     </url>
   
     <url>
+      <loc>https://enscpb.netlify.app/educbank</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://enscpb.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -177,12 +183,6 @@
   
     <url>
       <loc>https://enscpb.netlify.app/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://enscpb.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -206,13 +206,19 @@
     </url>
   
     <url>
-      <loc>https://enscpb.netlify.app/pages/trocas</loc>
+      <loc>https://enscpb.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://enscpb.netlify.app/pages/termos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://enscpb.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
