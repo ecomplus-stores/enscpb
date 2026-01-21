@@ -92,36 +92,6 @@
     </url>
   
     <url>
-      <loc>https://enscpb.netlify.app/fardamento-escolar</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://enscpb.netlify.app/livros-didaticos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://enscpb.netlify.app/eventos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://enscpb.netlify.app/matriculas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://enscpb.netlify.app/jiensc-2025</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://enscpb.netlify.app/sistema-ftd</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -164,6 +134,36 @@
     </url>
   
     <url>
+      <loc>https://enscpb.netlify.app/fardamento-escolar</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://enscpb.netlify.app/livros-didaticos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://enscpb.netlify.app/eventos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://enscpb.netlify.app/matriculas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://enscpb.netlify.app/jiensc-2025</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://enscpb.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -176,13 +176,13 @@
     </url>
   
     <url>
-      <loc>https://enscpb.netlify.app/pages/faq</loc>
+      <loc>https://enscpb.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://enscpb.netlify.app/pages/pagamentos</loc>
+      <loc>https://enscpb.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
